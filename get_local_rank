@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export LOCAL_RANK=$MV2_COMM_WORLD_LOCAL_RANK
+exec $*
