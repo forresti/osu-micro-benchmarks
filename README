@@ -1,3 +1,12 @@
+
+This code is from: http://mvapich.cse.ohio-state.edu/benchmarks/
+
+See latest updates here: http://mvapich.cse.ohio-state.edu/static/media/mvapich/CHANGES-OMB.txt
+
+This is NOT my code; I am simply using git to track some of my modifications to this BSD-licensed project.
+
+--------------------------
+
 OMB (OSU Micro-Benchmarks)
 --------------------------
 The OSU Micro-Benchmarks use the GNU build system. Therefore you can simply
